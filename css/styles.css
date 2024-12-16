@@ -1,0 +1,27 @@
+.container {
+    max-width: 100%; /* Ensure full width */
+    display: flex;
+    align-items: center; /* Vertically centers the text */
+    justify-content: center; /* Horizontally centers the text */
+    height: 100vh; /* Full viewport height */
+}
+
+.intro{
+    background-color: purple;
+}
+
+body{
+    font-size: 100%;
+}
+
+.heading-1{
+    font-size: 10em;
+    text-align: center;
+    justify-content: center;
+    color: rgb(162, 146, 146);
+    font-family: 'Brush Script MT', 'Segoe Print', 'Bradley Hand', Chilanka, TSCu_Comic, casual, cursive;
+}
+
+@keyframes dropDown {
+    
+}
